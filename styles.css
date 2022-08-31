@@ -1,0 +1,24 @@
+.main-title {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 34px; 
+}
+.products a {
+    font-size: 24px;
+    color: azure;
+    padding: 5px;
+    border-radius: 5px;
+}
+.products {
+    text-align: center;
+}
+.nutmilk {
+    background-color: lightcoral;
+    text-align: center;
+}
+.energybar {
+    background-color: lightblue;
+}
+.oatwow {
+    background-color: lightgreen;
+}
